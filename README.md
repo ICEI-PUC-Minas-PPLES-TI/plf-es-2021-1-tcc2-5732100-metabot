@@ -1,4 +1,4 @@
-# Nome do projeto
+# Mitigando Problemas de Bots do GitHub que Atuam em PullRequests com um Meta-Bot
 
 Para mitigar alguns dos problemas de interação introduzidos por *bots* em repositórios do GitHub, o estado da arte propõe o conceito de *meta-bot* [Wessel2020a]. Um *meta-bot* atua como mediador entre os contribuidores e os robôs do repositório que lidam com *pull requests*. Ao integrar e orquestrar os *bots*, o *meta-bot* é capaz de permitir que o contribuidor customize aspectos da interação com o robô, como por exemplo, a quantidade de mensagens permitidas na *pull request*. 
 
