@@ -1,0 +1,18 @@
+[submodule "Artigo/5f5e5da34e095d00016fdc35"]
+	path = Artigo/5f5e5da34e095d00016fdc35
+	url = https://git.overleaf.com/5f5e5da34e095d00016fdc35
+[submodule "Instrumentos/Codigos/metabot"]
+	path = Instrumentos/Codigos/metabot
+	url = git@github.com:EricRibeiro/metabot.git
+[submodule "Instrumentos/Codigos/metabot-utils"]
+	path = Instrumentos/Codigos/metabot-utils
+	url = git@github.com:EricRibeiro/metabot-utils.git
+[submodule "Instrumentos/Codigos/request-info"]
+	path = Instrumentos/Codigos/request-info
+	url = https://github.com/EricRibeiro/request-info
+[submodule "Instrumentos/Codigos/smee.io"]
+	path = Instrumentos/Codigos/smee.io
+	url = https://github.com/EricRibeiro/smee.io
+[submodule "Instrumentos/Codigos/todo"]
+	path = Instrumentos/Codigos/todo
+	url = https://github.com/EricRibeiro/todo
