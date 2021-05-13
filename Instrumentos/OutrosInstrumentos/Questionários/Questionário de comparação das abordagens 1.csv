@@ -1,0 +1,25 @@
+Q10,Q1_1,Q2_1,Q3_1,Q4_1,Q5_1,Q7,Q8
+ID do Participante,Em qual das interações foi possível obter a informação de forma mais objetiva? - Vários bots:The funnel bot,Em qual das interações foi mais rápido para encontrar as informações referentes ao caso analisado? - Vários bots:The funnel bot,Em qual das interações a informação estava disposta de maneira mais propícia ao entendimento do problema? - Vários bots:The funnel bot,Em qual das interações foi possível notar que a quantidade de informações dificultou a busca pela informação? - Vários bots:The funnel bot,Em qual das interações foi possível identificar os bots presentes no repositório com mais facilidade? - Vários bots:The funnel bot,Quais os pontos positivos da interação com vários bots?,Quais os pontos positivos da interação com o the funnel bot?
+P1,4,5,4,2,5,"'- Bot de coberturas de testes coloriu as informações que eu deveria estar ciente.
+- Por estar em caixas de texto separadas, da a impressão clara de que tudo que o bot deveria me dizer está sendo expressado dentro da caixa de texto... não senti que houve fuga de informação.","'- Facilidade de visualizar todos os bots envolvidos neste pull request
+- Facilidade de abrir ou minimizar as informações do bot que eu desejar
+"
+P3,5,1,2,4,1,A informação fica mais visível e para uma primeira interação com o projeto fica muito mais fácil de entender o que foi feito de errado/o que precisa melhorar.,"Para pessoas habituadas a estarem nos projetos no dia a dia, o tunnel não polui as pull requests e deixa as informações todas condensadas em único comentário, deixando os comentários de mantenedores mais visíveis. "
+P5,1,1,1,4,4,a disposição dos comentários e o conteúdo dos comentários é mais claro,trouxe uma análise do código e a classificação dos comentários
+P7,4,5,4,2,4,Eles apresentam vários aspectos do código e do repositório que podem ser observados e melhorados.,"O funnel bot possui os mesmos pontos positivos dos vários bots mas com uma concentração da informação, o que facilita o entendimento e a absorção."
+P9,2,1,2,2,5,"'- Apresentação (as informações ficam mais claras para o usuário, mais claro de ver as informações que o bot gerou a partir da análise do PR);
+- É mais intuitivo e simples;","'- É mais objetivo e limpo, quando aprende a navegar por ele é mais fácil encontrar o que precisa;
+- Informações mais bem agrupadas.
+"
+P11,5,5,3,1,1,maior quantidade de informações,assertividade de informação
+P13,5,5,2,2,5,"A impressão de ter uma maior interação humana, uma maior quantidade de comentários.","Os dados foram alocados de forma mais simples e objetiva, a página ficou menos poluída"
+P15,5,5,4,2,5,"Eu não percebi a atuação dos bots e isso pode ser um ponto positivo. Entretanto, no momento de avaliação do primeiro pull request eu não tinha certeza sobre a existência dos mesmos, então posso ter analisado com menos atenção à esse ponto. ",Houveram menos comentários e eles foram mais objetivos.
+P17,3,5,3,2,1,"Informações dispostas de forma separada, de modo que cada bot trouxe informações sobre um problema específico.","A facilidade de chegar em uma informação específica, por conta desse ""sumário"" de informações que o bot provê."
+P19,5,5,5,1,1,"Os bots agilizaram as tarefas seguintes e apresentaram instruções claras, porém o tempo gasto com a identificação dos problemas é próxima à interação humana (no sentido da possibilidade de ruídos não relevantes).","[1] Organização visual
+[2] Disposição mais agradável das informações
+[3] Ordem de prioridades
+[4] Menor interação dos colaboradores
+     [4.1] Comentários mais concisos e focados no problema"
+P21,4,5,3,1,4,"Os comentários estão ""fixados"" em seus pontos cronológicos, então fica fácil e claro de entender que aqueles comentários/commits foram resolvidos ou não.","O funnel bot condensa/sumariza vários comentários em um lugar só de acordo com sua ""categoria"", facilitando o acesso aos usuários responsáveis por determinados ""assuntos"" daquele repositório. Ex.: se sou responsável pelo deploy da aplicação, vou saber exatamente, de forma rápida e objetiva, onde procurar a informação referente às minhas responsabilidades naquele repositório, agilizando minha análise/entendimento e, consequentimente a solução da situação."
+P23,5,5,3,1,5,Nenhum.,Informação mais organizada no formato de tópicos. Mais fácil de compreender e encontrar uma informação específica.
+P25,5,5,3,1,3,Não vi nada positivo.,Uma tela mais limpa e mais objetiva

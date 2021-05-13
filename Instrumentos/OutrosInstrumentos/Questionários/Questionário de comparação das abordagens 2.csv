@@ -1,0 +1,25 @@
+Q10,Q1_1,Q2_1,Q3_1,Q4_1,Q5_1,Q7,Q8
+ID do Participante,Em qual das interações foi possível obter a informação de forma mais objetiva? - Vários bots:The funnel bot,Em qual das interações foi mais rápido para encontrar as informações referentes ao caso analisado? - Vários bots:The funnel bot,Em qual das interações a informação estava disposta de maneira mais propícia ao entendimento do problema? - Vários bots:The funnel bot,Em qual das interações foi possível notar que a quantidade de informações dificultou a busca pela informação? - Vários bots:The funnel bot,Em qual das interações foi possível identificar os bots presentes no repositório com mais facilidade? - Vários bots:The funnel bot,Quais os pontos positivos da interação com vários bots?,Quais os pontos positivos da interação com o the funnel bot?
+P1,2,1,1,5,2,"'- Cada um está disponível no seu espaço
+- Cada um tem uma função específica. Faz com que não fique tudo junto num lugar só
+","'- deixou em negrito a ""criticidade"" do problema e o tipo do problema. "
+P4,5,5,5,5,1,"'- Maior quantidade de informações.
+- Melhor entendimento de que os passos necessários para o Pull Request ser aceito foram cumpridos.
+- As informações disponibilizadas facilitam o entendimento do processo de contribuição do projeto.","'- Informações disponibilizadas de forma mais objetiva.
+- Para contribuidores mais familiarizados com o processo de contribuição do repositório, a quantidade de informações dispostas é mais amigável."
+P6,5,5,5,1,4,Pluralidade de possíveis visões diferentes de cada bot.,Resumir o impacto do pull request de forma mais clara e objetiva.
+P8,4,4,4,2,3,"se houvesse mais contexto, as informações passadas seriam mais útils, ou ajudariam mais a resolução do problema. O ponto positivo foi ter mais informações (gráficos, resultados de testes, etc...).","informações mais esclarecidas, o problemas foram específicados de forma mais simples, definindo exatamente os pontos de falha e possíveis correções, o que facilitou para mim que não sei à repeito do projeto"
+P10,5,5,5,3,3,Informação separada em comentários diversos pode deixar mais clara a origem da informação gerada.,Informação concentrada em um comentário contendo todas as informações relevantes gerada pelo bot. Classificação da informação de forma a facilitar a busca por tópicos específicos. 
+P12,1,5,1,1,1,"Cada bot por aparentar ser especialista no assunto me passou mais confiança no processo realizado, de primeira vista já mostrava diversas informações e em alguns casos me mostrava links para ir mais a fundo de forma mais explícita.","Com o uso do funnel bot o Pull Request não foi poluido com tantas mensagens de bots, que traz mais facilidade em visualizar os comentários de participantes do projeto, o que é importante para receber bem o feedback de todos os envolvidos."
+P14,5,5,5,1,3,Ver a ordem real da interação dos bots com o meu pull request.,"'- Aglomeração dos dados importantes
+- Ordenação de utilidade das coisas importantes para a atuação do desenvolvedor no pull request."
+P16,2,5,3,1,1,"Com vários bots, é possível identificar todas as ações (humanas ou não) que foram realizadas a partir do pull-request.","Aparentemente, o funnel bot oculta ações automatizadas e irrelevantes à análise da contribuição, mantendo apenas as que sejam necessárias para a interação entre os mantenedores e os contribuidores."
+P18,4,3,1,3,1,"Informações específica para cada bot, ou seja, cada bot tem uma única funcionalidade.",Tem as informações centralizadas em único bot.
+P20,2,2,3,3,1,"A informação é segmentada, pra mim fica mais facil analisar separadamente",Visualmente não fica poluido
+P22,5,5,5,1,5,Nenhum.,"'- Agrupamento das informações, como por objetivo da análise de código ou por sub-bots;
+- Tratamento das informações em dois quesitos: 1) quantidade de análise a serem atuadas por agrupamento; e 2) trechos de código a serem atuados, tornando as análises e pontos a serem atacados pelo desenvolvedor mais claras e focadas;
+- A análise do bot foi realizada logo após o meu envio para review do PR, não em momentos separados e esporádicos com com vários bots;
+- As informações disponibilizadas são claras ao usuário, diferentemente do caso com vários bots."
+P24,1,1,2,5,3,"As informações ficam mais granuladas;
+Fica mais fácil de idêntica as informações disponibilizadas;","As informações ficam mais centralizadas;
+Em um único comentário é fornecido um copilado dos problemas identificados pelo bot."
