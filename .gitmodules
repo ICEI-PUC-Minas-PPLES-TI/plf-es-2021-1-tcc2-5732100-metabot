@@ -7,12 +7,12 @@
 [submodule "Instrumentos/Codigos/metabot-utils"]
 	path = Instrumentos/Codigos/metabot-utils
 	url = git@github.com:EricRibeiro/metabot-utils.git
-[submodule "Instrumentos/Codigos/request-info"]
-	path = Instrumentos/Codigos/request-info
-	url = https://github.com/EricRibeiro/request-info
-[submodule "Instrumentos/Codigos/smee.io"]
-	path = Instrumentos/Codigos/smee.io
-	url = https://github.com/EricRibeiro/smee.io
-[submodule "Instrumentos/Codigos/todo"]
-	path = Instrumentos/Codigos/todo
-	url = https://github.com/EricRibeiro/todo
+[submodule "Instrumentos/Codigos/green-experiment"]
+	path = Instrumentos/Codigos/green-experiment
+	url = https://github.com/Genichiro00/green-experiment
+[submodule "Instrumentos/Codigos/blue-experiment"]
+	path = Instrumentos/Codigos/blue-experiment
+	url = https://github.com/Genichiro00/blue-experiment/
+[submodule "Instrumentos/Codigos/25e00769ec45050d74fdec9dbb42c0c4"]
+	path = Instrumentos/Codigos/25e00769ec45050d74fdec9dbb42c0c4
+	url = https://gist.github.com/25e00769ec45050d74fdec9dbb42c0c4.git
