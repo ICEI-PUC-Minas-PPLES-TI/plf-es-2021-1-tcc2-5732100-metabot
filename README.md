@@ -17,6 +17,6 @@ Para mitigar alguns dos problemas de interação introduzidos por *bots* em repo
 
 * Mairieli Santos Wessel (Universidade de São Paulo)
 
-## Instruções de Replicação/Reprodução
+## Link público de visualização do texto no overleaf
 
-Apresentar instruções de como o trabalho pode ser replicado/reproduzido.
+https://www.overleaf.com/read/ycjtzgvwpjfg
